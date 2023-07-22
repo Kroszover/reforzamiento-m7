@@ -1,0 +1,2 @@
+package utilizados
+npm i express cors morgan pg pg-hstore sequelize  
